@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.exe
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.deps.json
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.dll
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\bin\Debug\netcoreapp3.1\estudiantespromedio.pdb
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.Form1.resources
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.dll
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.pdb
+C:\Users\USER\Documents\P.O.O\estudiantespromedio\estudiantespromedio\obj\Debug\netcoreapp3.1\estudiantespromedio.genruntimeconfig.cache

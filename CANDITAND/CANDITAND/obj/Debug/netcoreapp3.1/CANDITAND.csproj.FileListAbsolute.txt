@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.exe
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.deps.json
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.dll
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\bin\Debug\netcoreapp3.1\CANDITAND.pdb
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.Form1.resources
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.dll
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.pdb
+C:\Users\USER\Documents\P.O.O\CANDITAND\CANDITAND\obj\Debug\netcoreapp3.1\CANDITAND.genruntimeconfig.cache
