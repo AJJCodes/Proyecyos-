@@ -1,0 +1,38 @@
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Properties.Resources.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.csproj.GenerateResource.cache
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\Programas.exe.config
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\Programas.exe
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\Programas.pdb
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.exe
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.pdb
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormCalificaciones.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormEstudiantes.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormLluvias.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormProfesores.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormVino.resources
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Kenneth\source\repos\Programas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Interfaz.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.FormVotos.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.Candidatos.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.Resultados.resources
+C:\Users\Kenneth\source\repos\Programas\obj\Debug\Programas.Forms.Votos.resources
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.Interfaz.resources
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.Properties.Resources.resources
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.csproj.GenerateResource.cache
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.exe
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.pdb
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\Programas.exe.config
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\Programas.exe
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\Programas.pdb
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Kenneth\source\repos\Programas 2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.csproj.CopyComplete
+C:\Users\Kenneth\source\repos\Programas 2\obj\Debug\Programas.Forms.Maestros.resources
