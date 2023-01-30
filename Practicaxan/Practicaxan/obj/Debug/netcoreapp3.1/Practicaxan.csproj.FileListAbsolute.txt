@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.exe
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.deps.json
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.dll
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\bin\Debug\netcoreapp3.1\Practicaxan.pdb
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.Form1.resources
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.dll
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.pdb
+C:\Users\USER\Documents\P.O.O\Practicaxan\Practicaxan\obj\Debug\netcoreapp3.1\Practicaxan.genruntimeconfig.cache

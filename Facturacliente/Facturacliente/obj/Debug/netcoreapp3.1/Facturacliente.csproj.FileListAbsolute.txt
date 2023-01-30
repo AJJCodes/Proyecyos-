@@ -1,0 +1,15 @@
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.exe
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.deps.json
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.runtimeconfig.json
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.runtimeconfig.dev.json
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.dll
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\bin\Debug\netcoreapp3.1\Facturacliente.pdb
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.Form1.resources
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.AssemblyInfo.cs
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.dll
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.pdb
+C:\Users\antho\source\repos\Facturacliente\Facturacliente\obj\Debug\netcoreapp3.1\Facturacliente.genruntimeconfig.cache
