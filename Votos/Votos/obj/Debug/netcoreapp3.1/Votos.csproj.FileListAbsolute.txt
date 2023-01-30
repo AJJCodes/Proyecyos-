@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.exe
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.deps.json
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.dll
+C:\Users\USER\Documents\P.O.O\Votos\Votos\bin\Debug\netcoreapp3.1\Votos.pdb
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.Form1.resources
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.dll
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.pdb
+C:\Users\USER\Documents\P.O.O\Votos\Votos\obj\Debug\netcoreapp3.1\Votos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos_uni_demen.Form1.resources
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.exe
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.deps.json
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.dll
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\bin\Debug\netcoreapp3.1\Arreglos uni demen.pdb
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.dll
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.pdb
+C:\Users\USER\Documents\P.O.O\Arreglos uni demen\Arreglos uni demen\obj\Debug\netcoreapp3.1\Arreglos uni demen.genruntimeconfig.cache
