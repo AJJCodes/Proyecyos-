@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.exe
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.deps.json
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.runtimeconfig.json
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.runtimeconfig.dev.json
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.dll
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\bin\Debug\netcoreapp3.1\Solexamen.pdb
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.csprojAssemblyReference.cache
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.Form1.resources
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.csproj.GenerateResource.cache
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.AssemblyInfo.cs
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.dll
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.pdb
+C:\Users\USER\Documents\P.O.O\Solexamen\Solexamen\obj\Debug\netcoreapp3.1\Solexamen.genruntimeconfig.cache
